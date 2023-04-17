@@ -4,6 +4,7 @@ As a User
 I want to add up all the numbers from 1 to limit
 So that I can know the sum
 
+✅
 GIVEN the limit is 1
 WHEN the sum is calculated
 THEN the result is 1
